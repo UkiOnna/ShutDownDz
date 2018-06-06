@@ -1,0 +1,5 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\ClientShutUp\ClientShutUp\bin\Debug\ClientShutUp.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\ClientShutUp\ClientShutUp\bin\Debug\ClientShutUp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ClientShutUp\ClientShutUp\bin\Debug\ClientShutUp.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\ClientShutUp\ClientShutUp\obj\Debug\ClientShutUp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ClientShutUp\ClientShutUp\obj\Debug\ClientShutUp.pdb
