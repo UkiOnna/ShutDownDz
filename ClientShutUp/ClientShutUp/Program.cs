@@ -22,7 +22,7 @@ namespace ClientShutUp
                     byte[] data = reciever.Receive(ref endPoint);
                     if (Encoding.UTF8.GetString(data)=="t")
                     {
-                        Console.WriteLine("sd");
+                        System.Diagnostics.Process.Start("cmd", "/c shutdown -s -f -t 00");
                     }
                 }
             }
